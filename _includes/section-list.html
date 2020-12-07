@@ -3,6 +3,7 @@
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <h4>{{ item.title }}</h4>
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
+      {%- if item.sub_sub_title -%}<p><i>{{ item.sub_sub_title }}</i></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
       {%- if item.link -%}

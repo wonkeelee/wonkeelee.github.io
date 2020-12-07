@@ -75,10 +75,11 @@ content:
       - layout: top-right
         title: POSTECH
         sub_title: Computer Science and Engineering, Ph.D.
+        sub_sub_title: (MS/Ph.D. Integrated Course)
         caption: 2016 - Current
-
         
-        # quote: >
+        
+      # quote: >
         #  Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #  Description of qualification
