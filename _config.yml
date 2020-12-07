@@ -78,12 +78,7 @@ content:
         sub_sub_title: (MS/Ph.D. Integrated Course)
         caption: 2016 - Current
         
-        
-      # quote: >
-        #  Short institution or course description (optional)
-        # description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
- 
+              
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -100,7 +95,7 @@ content:
 
       - [Gated dynamic convolutions with deep layer fusion for abstractive document summarization](https://www.sciencedirect.com/science/article/pii/S0885230820300929)  
       Hongseok Kwon, Byung-Hyun Go, Juhong Park, __Wonkee Lee__, Yewon Jeong, Jong-Hyeok Lee    
-      In _Computer Speech & Language (2020)_
+      In _Computer Speech & Language (SCI), 2020_
 
       ---
 
