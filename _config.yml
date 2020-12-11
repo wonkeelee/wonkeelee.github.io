@@ -87,25 +87,25 @@ content:
           　  
           - [Noising Scheme for Data Augmentation in Automatic Post-Editing](http://www.statmt.org/wmt20/pdf/2020.wmt-1.83.pdf)  
           __WonKee Lee__, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee  
-          In _WMT 2020_
+          _WMT 2020_
           
           ---
           - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](http://www.statmt.org/wmt20/pdf/2020.wmt-1.82.pdf)  
           Jihyung Lee, __WonKee Lee__, Jaehun Shin, Baikjin Jung, Young-Kil Kim, Jong-Hyeok Lee    
-          In _WMT 2020_
+          _WMT 2020_
 
           ---
 
           - [Gated dynamic convolutions with deep layer fusion for abstractive document summarization](https://www.sciencedirect.com/science/article/pii/S0885230820300929)  
           Hongseok Kwon, Byung-Hyun Go, Juhong Park, __Wonkee Lee__, Yewon Jeong, Jong-Hyeok Lee    
-          In _Computer Speech & Language (SCI), 2020_
+          _Computer Speech & Language (SCI), 2020_
 
           ---
 
           - [Transformer-based Automatic Post-Editing Model with Joint Encoder and Multi-source Attention of Decoder](https://www.aclweb.org/anthology/W19-5412.pdf)  
           __WonKee Lee__, Jaehun Shin, Jong-Hyeok Lee  
           _(2nd-ranked system)_   
-          In _WMT 2019_
+          _WMT 2019_
       
       - layout: top-middle
         title: <i>domestic papers</i>
@@ -114,44 +114,44 @@ content:
           
           - [원시문과 기계번역문 간 효과적 관계모델링을 통한 Transformer 기반 번역문 자동 사후 교정](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763273)  
           __이원기__, 신재훈, 김영길, 이종혁  
-          In _KCC 2019_   
+          _KCC 2019_   
 
           ---
 
         
           - [다중 인코더 Transformer 기반 번역문 자동 사후 교정 모델의 디코더 구조 연구](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763278)  
           신재훈, __이원기__, 김영길, 이종혁  
-          In _KCC 2019_  
+          _KCC 2019_  
           
           ---
 
           - [자가 주의 메커니즘을 활용한 sequence-to-sequence 기반 문서 생성 요약](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07503086)  
           권홍석, 신재훈, __이원기__, 이종혁  
-          In _KCC 2018_  
+          _KCC 2018_  
           
           ---
           
           - [심층학습 기반의 Predictor-Estimator 모델을 이용한 영어-한국어 기계번역 품질 예측](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07454388)  
           김현, 신재훈, __이원기__, 조승우, 이종혁  
-          In _KIISE(KCI) 2018_  
+          _KIISE(KCI) 2018_  
           
           ---
 
           - [개체명 인식과 단어 정렬을 이용한 통계적 기계번역의 성능 향상](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07207323)  
           __이원기__, 김영길, 조승우, 권홍석, 이의현, 조형미, 이종혁  
-          In _KCC 2017_  
+          _KCC 2017_  
           
           ---
           
           - [한국어의 이형태 표준화를 통한 구 기반 통계적 기계 번역 성능 향상](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474856)  
           __이원기__, 김영길, 이의현, 권홍석, 조승우, 조형미, 이종혁  
-          In _HCLT 2016_  
+          _HCLT 2016_  
 
           ---
           
           - [한베 통계기계번역의 성능 향상을 위한 내표문 추출 및 복원 기법](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474845)  
           조승우, 김영길, 권홍석, 이의현, __이원기__, 조형미, 이종혁  
-          In _HCLT 2016_  
+          _HCLT 2016_  
 
 
   # - title: Publications
