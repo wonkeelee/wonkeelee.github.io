@@ -85,12 +85,12 @@ content:
         title: <i>International papers</i>
         description: |
           　  
-          - [Noising Scheme for Data Augmentation in Automatic Post-Editing](http://www.statmt.org/wmt20/pdf/2020.wmt-1.83.pdf)  
+          - [Noising Scheme for Data Augmentation in Automatic Post-Editing](https://www.aclweb.org/anthology/2020.wmt-1.83.pdf)  
           __WonKee Lee__, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee  
           _WMT 2020_
           
           ---
-          - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](http://www.statmt.org/wmt20/pdf/2020.wmt-1.82.pdf)  
+          - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.wmt-1.82.pdf)  
           Jihyung Lee, __WonKee Lee__, Jaehun Shin, Baikjin Jung, Young-Kil Kim, Jong-Hyeok Lee    
           _WMT 2020_
 
