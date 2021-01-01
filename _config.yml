@@ -111,8 +111,12 @@ content:
       - layout: top-middle
         title: <i>domestic papers</i>
         description: |
-          　  
+          - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상]()  
+          강덕형, __이원기__, 이종혁  
+          _KSC 2020_ (학부생논문)  
           
+          ---
+
           - [원시문과 기계번역문 간 효과적 관계모델링을 통한 Transformer 기반 번역문 자동 사후 교정](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763273)  
           __이원기__, 신재훈, 김영길, 이종혁  
           _KCC 2019_   
