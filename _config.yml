@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: WonKee Lee
-title: Ph.D. student at POSTECH
+title: Ph.D. student @ POSTECH
 email: wklee@postech.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -111,6 +111,8 @@ content:
       - layout: top-middle
         title: <i>domestic papers</i>
         description: |
+             　  
+     
           - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상]()  
           강덕형, __이원기__, 이종혁  
           _KSC 2020_ (학부생논문)  
@@ -123,7 +125,6 @@ content:
 
           ---
 
-        
           - [다중 인코더 Transformer 기반 번역문 자동 사후 교정 모델의 디코더 구조 연구](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763278)  
           신재훈, __이원기__, 김영길, 이종혁  
           _KCC 2019_  
