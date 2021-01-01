@@ -111,7 +111,7 @@ content:
       - layout: top-middle
         title: <i>domestic papers</i>
         description: |
-             　  　  
+         　  
           - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상]()  
           강덕형, __이원기__, 이종혁  
           _KSC 2020_ (학부생논문)  
