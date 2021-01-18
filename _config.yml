@@ -90,6 +90,12 @@ content:
           _Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, 2021
                     
           ---
+          
+          - [Gated dynamic convolutions with deep layer fusion for abstractive document summarization](https://www.sciencedirect.com/science/article/pii/S0885230820300929)  
+          Hongseok Kwon, Byung-Hyun Go, Juhong Park, __WonKee Lee__, Yewon Jeong, Jong-Hyeok Lee    
+          _Computer Speech & Language (SCI)_, 2020
+
+          ---
 
           - [Noising Scheme for Data Augmentation in Automatic Post-Editing](https://www.aclweb.org/anthology/2020.wmt-1.83.pdf)  
           __WonKee Lee__, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee  
@@ -100,12 +106,6 @@ content:
           - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.wmt-1.82.pdf)  
           Jihyung Lee, __WonKee Lee__, Jaehun Shin, Baikjin Jung, Young-Kil Kim, Jong-Hyeok Lee    
           _Conference on Machine Translation (WMT)_, 2020
-
-          ---
-
-          - [Gated dynamic convolutions with deep layer fusion for abstractive document summarization](https://www.sciencedirect.com/science/article/pii/S0885230820300929)  
-          Hongseok Kwon, Byung-Hyun Go, Juhong Park, __WonKee Lee__, Yewon Jeong, Jong-Hyeok Lee    
-          _Computer Speech & Language (SCI)_, 2020
 
           ---
 
