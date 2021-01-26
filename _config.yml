@@ -54,8 +54,12 @@ google_scholar_id: DKD6rpoAAAA
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_img_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi. I am a Ph.D. student in [Knowledge and Language Engineering](http://kle.postech.ac.kr) Lab under the supervision of [Jong-Hyeok Lee](http://kle.postech.ac.kr/people/professor) at [POSTECH](http://www.postech.ac.kr/). 
-  My research interests lie in the area of natural language processing. At present, my research focuses on machine-translation (MT) and its related topics such as automatic post-editing (APE) and quality estimation (QE).
+  Hi. I am a Ph.D. student in [Knowledge and Language Engineering](http://kle.postech.ac.kr) Lab under the supervision of [Jong-Hyeok Lee](http://kle.postech.ac.kr/people/professor) at [POSTECH](http://www.postech.ac.kr/). My research interests lie in the area of natural language processing (NLP).  
+  At present, my research focuses on:
+  - machine-translation (MT) and its related topics, automatic post-editing (APE) and quality estimation (QE)
+  - Grammatical error correction (GEC)
+  - Text summarization
+
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
