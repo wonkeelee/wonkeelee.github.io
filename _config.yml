@@ -103,19 +103,19 @@ content:
 
           - [Noising Scheme for Data Augmentation in Automatic Post-Editing](https://www.aclweb.org/anthology/2020.wmt-1.83.pdf)  
           __WonKee Lee__, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee  
-          _Conference on Machine Translation (WMT)_, 2020
+          _Conference on Machine Translation (WMT)_ @ _EMNLP_, 2020
           
           ---
           
           - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.wmt-1.82.pdf)  
           Jihyung Lee, __WonKee Lee__, Jaehun Shin, Baikjin Jung, Young-Kil Kim, Jong-Hyeok Lee    
-          _Conference on Machine Translation (WMT)_, 2020
+          _Conference on Machine Translation (WMT)_ @ _EMNLP_, 2020
 
           ---
 
           - [Transformer-based Automatic Post-Editing Model with Joint Encoder and Multi-source Attention of Decoder](https://www.aclweb.org/anthology/W19-5412.pdf)  
           __WonKee Lee__, Jaehun Shin, Jong-Hyeok Lee  
-          _Conference on Machine Translation (WMT)_, 2019 (2nd-ranked system)  
+          _Conference on Machine Translation (WMT)_ @ _ACL_ (2nd-ranked system), 2019  
       
       - layout: top-middle
         title: <i>domestic papers</i>
