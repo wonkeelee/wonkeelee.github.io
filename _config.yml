@@ -89,7 +89,7 @@ content:
         title: <i>International papers</i>
         description: |
           　  
-          - [Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation]()  
+          - [Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation](https://www.aclweb.org/anthology/2021.eacl-main.322.pdf)  
           __WonKee Lee__, Baikjin Jung, Jaehun Shin, Jong-Hyeok Lee  
           _Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, 2021
                     
@@ -121,7 +121,7 @@ content:
         title: <i>domestic papers</i>
         description: |
          　  
-          - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상]()  
+          - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529955&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR)  
           강덕형, __이원기__, 이종혁  
           _KSC_, 2020 (학부생논문)  
           
