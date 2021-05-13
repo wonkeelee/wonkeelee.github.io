@@ -89,6 +89,12 @@ content:
         title: <i>International papers</i>
         description: |
           　  
+          - [Exploration of Effective Attention Strategies for Neural Automatic Post-Editing with Transformer]()  
+          Jaehun Shin, __WonKee Lee__, Byung-Hyun Go, Baikjin Jung, YoungKil Kim, Jong-Hyeok Lee  
+          _Transactions on Asian and Low-Resource Language Information Processing_ (SCI), 2021
+                    
+          ---
+          
           - [Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation](https://www.aclweb.org/anthology/2021.eacl-main.322.pdf)  
           __WonKee Lee__, Baikjin Jung, Jaehun Shin, Jong-Hyeok Lee  
           _Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, 2021
@@ -97,7 +103,7 @@ content:
           
           - [Gated dynamic convolutions with deep layer fusion for abstractive document summarization](https://www.sciencedirect.com/science/article/pii/S0885230820300929)  
           Hongseok Kwon, Byung-Hyun Go, Juhong Park, __WonKee Lee__, Yewon Jeong, Jong-Hyeok Lee    
-          _Computer Speech & Language_, 2020 (SCI)
+          _Computer Speech & Language_ (SCI), 2020 
 
           ---
 
