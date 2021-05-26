@@ -92,10 +92,16 @@ content:
           - [Exploration of Effective Attention Strategies for Neural Automatic Post-Editing with Transformer]()  
           Jaehun Shin, __WonKee Lee__, Byung-Hyun Go, Baikjin Jung, YoungKil Kim, Jong-Hyeok Lee  
           _ACM Transactions on Asian and Low-Resource Language Information Processing_ (SCI), 2021
-                    
+
           ---
           
-          - [Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation](https://www.aclweb.org/anthology/2021.eacl-main.322.pdf)  
+          - [Transformer-based Screenplay Summarization Using Augmented Learning Representation with Dialogue Information](https://www.aclweb.org/anthology/2021.nuse-1.6)  
+          Myungji Lee, Hongseok Kwon, Jaehun Shin, __WonKee Lee__, Baikjin Jung, Jong-Hyeok Lee  
+          _The Workshop on Narrative Understanding, Storylines, and Events (NUSE)_ @ NAACL-HLT, 2021
+
+          ---
+          
+          - [Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation](https://www.aclweb.org/anthology/2021.eacl-main.322)  
           __WonKee Lee__, Baikjin Jung, Jaehun Shin, Jong-Hyeok Lee  
           _Proceedings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, 2021
                     
@@ -107,19 +113,19 @@ content:
 
           ---
 
-          - [Noising Scheme for Data Augmentation in Automatic Post-Editing](https://www.aclweb.org/anthology/2020.wmt-1.83.pdf)  
+          - [Noising Scheme for Data Augmentation in Automatic Post-Editing](https://www.aclweb.org/anthology/2020.wmt-1.83)  
           __WonKee Lee__, Jaehun Shin, Baikjin Jung, Jihyung Lee, Jong-Hyeok Lee  
           _Proceedings of the Conference on Machine Translation (WMT)_ @ _EMNLP_, 2020
           
           ---
           
-          - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.wmt-1.82.pdf)  
+          - [POSTECH-ETRI’s Submission to the WMT2020 APE Shared Task: Automatic Post-Editing with Cross-lingual Language Model](https://www.aclweb.org/anthology/2020.wmt-1.82)  
           Jihyung Lee, __WonKee Lee__, Jaehun Shin, Baikjin Jung, Young-Kil Kim, Jong-Hyeok Lee    
           _Proceedings of the Conference on Machine Translation (WMT)_ @ _EMNLP_, 2020
 
           ---
 
-          - [Transformer-based Automatic Post-Editing Model with Joint Encoder and Multi-source Attention of Decoder](https://www.aclweb.org/anthology/W19-5412.pdf)  
+          - [Transformer-based Automatic Post-Editing Model with Joint Encoder and Multi-source Attention of Decoder](https://www.aclweb.org/anthology/W19-5412)  
           __WonKee Lee__, Jaehun Shin, Jong-Hyeok Lee  
           _Proceedings of the Conference on Machine Translation (WMT)_ @ _ACL_, 2019 (2nd-ranked system) 
       
