@@ -205,7 +205,11 @@ content:
   #     _(2nd-ranked system)_   
   #     In _WMT 2019_
 
-
+  - title: Research Activites
+    layout: text
+    content: | 
+      - Reviewer EMNLP 2021
+      
   - title: Teaching Experiences
     layout: text
     content: | # this will include new lines to allow paragraphs
