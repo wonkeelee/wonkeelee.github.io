@@ -90,11 +90,11 @@ content:
         description: |
           　  
           - [Tag Assisted Neural Machine Translation of Film Subtitles]()  
-          Aren Siekmeier, __WonKee Lee__, Hongseok Kwon and Jong-Hyeok Lee  
+          Aren Siekmeier, __WonKee Lee__, Hongseok Kwon, Jong-Hyeok Lee  
           _International Conference on Spoken Language Translation (IWSLT)_ @ _ACL_, 2021
 
           ---
-          
+
           - [Exploration of Effective Attention Strategies for Neural Automatic Post-Editing with Transformer]()  
           Jaehun Shin, __WonKee Lee__, Byung-Hyun Go, Baikjin Jung, YoungKil Kim, Jong-Hyeok Lee  
           _ACM Transactions on Asian and Low-Resource Language Information Processing_ (SCI), 2021
