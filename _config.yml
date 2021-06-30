@@ -90,6 +90,12 @@ content:
         description: |
           　  
           - [Exploration of Effective Attention Strategies for Neural Automatic Post-Editing with Transformer]()  
+          Aren Siekmeier, __WonKee Lee__, Hongseok Kwon and Jong-Hyeok Lee  
+          _International Conference on Spoken Language Translation (IWSLT)_ @ _ACL_, 2021
+
+          ---
+          　  
+          - [Exploration of Effective Attention Strategies for Neural Automatic Post-Editing with Transformer]()  
           Jaehun Shin, __WonKee Lee__, Byung-Hyun Go, Baikjin Jung, YoungKil Kim, Jong-Hyeok Lee  
           _ACM Transactions on Asian and Low-Resource Language Information Processing_ (SCI), 2021
 
@@ -97,7 +103,7 @@ content:
           
           - [Transformer-based Screenplay Summarization Using Augmented Learning Representation with Dialogue Information](https://www.aclweb.org/anthology/2021.nuse-1.6)  
           Myungji Lee, Hongseok Kwon, Jaehun Shin, __WonKee Lee__, Baikjin Jung, Jong-Hyeok Lee  
-          _The Workshop on Narrative Understanding, Storylines, and Events (NUSE)_ @ NAACL-HLT, 2021
+          _The Workshop on Narrative Understanding, Storylines, and Events (NUSE)_ @ _NAACL-HLT_, 2021
 
           ---
           
