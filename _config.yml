@@ -149,49 +149,49 @@ content:
           _KSC_, 2021 (우수논문상)  
           
           ---
-          - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529955&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR)  
+          - [Improvement in Multi-hop QA system using SpanBERT (SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529955&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR)  
           강덕형, __이원기__, 이종혁  
           _KSC_, 2020 (학부생논문)  
           
           ---
 
-          - [원시문과 기계번역문 간 효과적 관계모델링을 통한 Transformer 기반 번역문 자동 사후 교정](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763273)  
+          - [Transformer-based Automatic Post-Editing with Effective Relation Modeling between Source and its Translations (원시문과 기계번역문 간 효과적 관계모델링을 통한 Transformer 기반 번역문 자동 사후 교정)](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763273)  
           __이원기__, 신재훈, 김영길, 이종혁  
           _KCC_, 2019  
 
           ---
 
-          - [다중 인코더 Transformer 기반 번역문 자동 사후 교정 모델의 디코더 구조 연구](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763278)  
+          - [Research for the Decoder Structure of Multi-encoder Transformer-based Automatic Post-Editing Model (다중 인코더 Transformer 기반 번역문 자동 사후 교정 모델의 디코더 구조 연구)](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08763278)  
           신재훈, __이원기__, 김영길, 이종혁  
           _KCC_, 2019 (우수발표논문상)  
           
           ---
 
-          - [자가 주의 메커니즘을 활용한 sequence-to-sequence 기반 문서 생성 요약](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07503086)  
+          - [Sequence-to-sequence Based Abstractive Document Summarization with Self-attention Mechanism (자가 주의 메커니즘을 활용한 sequence-to-sequence 기반 문서 생성 요약)](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07503086)  
           권홍석, 신재훈, __이원기__, 이종혁  
           _KCC_, 2018  
           
           ---
           
-          - [심층학습 기반의 Predictor-Estimator 모델을 이용한 영어-한국어 기계번역 품질 예측](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07454388)  
+          - [Quality Estimation of English-Korean Machine Translation using Neural Network based Predictor-Estimator Model (심층학습 기반의 Predictor-Estimator 모델을 이용한 영어-한국어 기계번역 품질 예측)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07454388)  
           김현, 신재훈, __이원기__, 조승우, 이종혁  
           _KIISE(KCI)_, 2018  
           
           ---
 
-          - [개체명 인식과 단어 정렬을 이용한 통계적 기계번역의 성능 향상](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07207323)  
+          - [Improving Statistical Machine Translation with Named Entity Recognition and Word-Alignment (개체명 인식과 단어 정렬을 이용한 통계적 기계번역의 성능 향상)](http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07207323)  
           __이원기__, 김영길, 조승우, 권홍석, 이의현, 조형미, 이종혁  
           _KCC_, 2017  
           
           ---
           
-          - [한국어의 이형태 표준화를 통한 구 기반 통계적 기계 번역 성능 향상](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474856)  
+          - [Improve Performance of Phrase-based Statistical Machine Translation through Standardizing Korean Allomorph (한국어의 이형태 표준화를 통한 구 기반 통계적 기계 번역 성능 향상)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474856)  
           __이원기__, 김영길, 이의현, 권홍석, 조승우, 조형미, 이종혁  
           _HCLT_, 2016  
 
           ---
           
-          - [한베 통계기계번역의 성능 향상을 위한 내표문 추출 및 복원 기법](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474845)  
+          - [Embedded clause extraction and restoration for the performance enhancement in Korean-Vietnamese statistical machine translation (한베 통계기계번역의 성능 향상을 위한 내포문 추출 및 복원 기법)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09474845)  
           조승우, 김영길, 권홍석, 이의현, __이원기__, 조형미, 이종혁  
           _HCLT_, 2016  
 
