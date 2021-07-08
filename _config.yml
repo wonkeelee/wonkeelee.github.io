@@ -139,6 +139,16 @@ content:
         title: <i>domestic papers</i>
         description: |
          　  
+          - [BERT를 활용한 크로스도메인 슬롯 채우기]()  
+          허성환, __이원기__, 이종혁  
+          _KSC_, 2021 (우수논문상)  
+          
+          ---
+          - [다중 인코더 구조를 활용한 기계번역 품질 예측]()  
+          허담, __이원기__, 신재훈, 권홍석, 이종혁  
+          _KSC_, 2021 (우수논문상)  
+          
+          ---
           - [SpanBERT를 활용한 다중추론 질의응답 시스템 성능 향상](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529955&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR)  
           강덕형, __이원기__, 이종혁  
           _KSC_, 2020 (학부생논문)  
