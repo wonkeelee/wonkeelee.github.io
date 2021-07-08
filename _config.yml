@@ -136,7 +136,7 @@ content:
           _Proceedings of the Conference on Machine Translation (WMT)_ @ _ACL_, 2019 (2nd-ranked system) 
       
       - layout: top-middle
-        title: <i>domestic papers</i>
+        title: <i>Domestic papers</i>
         description: |
          　  
           - [BERT를 활용한 크로스도메인 슬롯 채우기]()  
